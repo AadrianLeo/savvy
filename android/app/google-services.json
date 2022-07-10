@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922782588153",
+    "project_id": "savvy-39fd8",
+    "storage_bucket": "savvy-39fd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922782588153:android:0d651dd5a39c26d0bd1628",
+        "android_client_info": {
+          "package_name": "com.example.instagram_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922782588153-u84j2e4069tj22ksctb68ebie6n79o6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZOhi-cyzuuTSpArICIPZTYHj23Dt7lpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922782588153-u84j2e4069tj22ksctb68ebie6n79o6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
