@@ -9,7 +9,7 @@ This is an flutter project an social media application (instagram clone) where y
 
 The app is in development and new are features comming soon. 
 
-You can download the apk from the [release](https://github.com/AadrianLeo/Tictactoe-Multiplayer-Game/releases)
+You can download the apk from the [release](https://github.com/AadrianLeo/savvy/releases/tag/v1.0.0)
 
 You can even play it online on web (There is an bug in the web aaplication of image working on it) : [web link](https://savvy-app.netlify.app/)
 
