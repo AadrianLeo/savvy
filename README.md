@@ -1,16 +1,17 @@
-# instagram_flutter
+# Savvy
 
-A new Flutter project.
+![savvy-bg](https://user-images.githubusercontent.com/81036521/178149779-c064305f-af92-484f-9bdc-04b808e6d64b.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Introduction
 
-A few resources to get you started if this is your first Flutter project:
+This is an flutter project an social media application (instagram clone) where you can login, logout, post like and comment on posts you can even search users in the searchbar. the data is saved in firebase storage for photos and details are saves in firebase database with on email and password login. 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can download the apk from the [release](https://github.com/AadrianLeo/Tictactoe-Multiplayer-Game/releases)
+
+You can even play it online on web : [web link](https://tictactoe-online-game.netlify.app/)
+
+### `#For flutter packages run: pub get  && to run flutter project run : flutter run  or in vscode click on run from the banner and click on run without debugging or start degugging.`
+
+### `# change your flutter credentcials and google-services.json and other different details`
